@@ -7,22 +7,24 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
   
   <title>Your Results</title>
-      <h>Summary</h> 
-            
+  <center>
+                     <h>Summary</h> 
+  </center>
+</head>
+            <body>
         
-           <button class="a1">Reaction</button>
-           <button class="a2">Memory</button>
-           <button class="a3">Verbal</button>
-           <button class="a4">Visual</button>
+           <button class="a1">Reaction <p align="left">50/100</p></button>
+           <button class="a2">Memory <p align="right"> 68/100</p></button>
+           <button class="a3">Verbal <p align="right"> 40/100</p></button>
+           <button class="a4">Visual <p align="right"> 60/100</p></button>
           <button class="continue"><span class="text">Continue</span></button>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-{
+            </body>
+  <style>  
+.right-buttons{
     height: 350px;
-    width: 300px;
+    width: 250px;
      margin: auto;
     background: hsl(0, 12%, 97%);
     display: flexbox;
@@ -41,8 +43,8 @@ h1 {
 button {
     display: flex;
     flex-direction: column;
-    height: 10%;
-    width: 80%;
+    height: 100%;
+    width: 15%;
     margin: auto;
     border-radius: 10px;
     margin-top: 10px;
@@ -81,12 +83,18 @@ button {
     position: relative;
     top: 10px;
 }   
+.a1 {
+    background: rgb(238, 222, 222);
+}
+
+.a2 {
+    background: rgb(238, 228, 212);
+}
+.a3 {
+    background: rgb(237, 248, 244);
+}
+.a4 {
+    background: rgb(213, 214, 230);
+}
   </style>
-</head>
-<body>
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Mah Marieta</a>.
-  </div>
-</body>
 </html>

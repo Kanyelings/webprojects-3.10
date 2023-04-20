@@ -98,9 +98,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Mah Niba](https://www.linkedin.com/in/mah-niba-20b835256)
+- Frontend Mentor - [@Mah Niba](https://www.frontendmentor.io/profile/Mahniba)
+- Twitter - [@MahMarieta](https://www.twitter.com/Mah Marieta)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
